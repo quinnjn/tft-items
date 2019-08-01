@@ -1,0 +1,30 @@
+img.item {
+  width: 64px;
+  height: 64px;
+}
+
+img.champ {
+  width: 64px;
+  height: 64px;
+}
+
+img.component-missing {
+  width: 32px;
+  height: 32px;
+  filter: grayscale(100%);
+}
+
+img.component {
+  width: 32px;
+  height: 32px;
+}
+
+.row-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.column-wrapper {
+  display: flex;
+  flex-direction: column;
+}
